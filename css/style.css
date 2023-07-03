@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Akshar&family=Bebas+Neue&family=Faster+One&family=Girassol&family=Goldman&display=swap');
+
+
+html,
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("../img/gif1.gif");
+    background-repeat: repeat;
+    background-size: cover;
+    margin-right: 120px;
+    margin-left: 120px;
+}
+
+header {
+    border: 3px solid #4169e1;
+    border-radius: 30px;
+    position: center;
+    margin-top: 15px;
+    text-align: center;
+    font-family: "Bebas Neue", sans-serif;
+
+}
+
+.container h2 {
+    font-family: "Bebas Neue";
+}
+
+.apresentation {
+    font-family: "Akshar";
+    font-size: 16px;
+    text-align: center;
+    border: 3px solid #4169e1;
+    border-radius: 30px;
+    margin-top: 30px;
+    padding: 0;
+}
+
+.apresentation img {
+    border-radius: 100px;
+}
+
+.nascimento {
+    text-align: center;
+    border: 3px solid #4169e1;
+    border-radius: 30px;
+    margin-top: 30px;
+    font-family: "Akshar";
+    font-size: 16px;
+}
+
+.formação {
+    text-align: center;
+    border: 3px solid #4169e1;
+    border-radius: 30px;
+    margin-top: 30px;
+    font-family: "Akshar";
+    font-size: 16px;
+    background-image: url("../img/tsi.png");
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: 95%;
+
+}
+
+.profissao {
+    text-align: center;
+    border: 3px solid #4169e1;
+    border-radius: 30px;
+    margin-top: 30px;
+    font-family: "Akshar";
+    font-size: 16px;
+
+}
+
+.hobbye {
+    text-align: center;
+    border: 3px solid #4169e1;
+    border-radius: 30px;
+    margin-top: 30px;
+    font-family: "Akshar";
+    font-size: 16px;
+
+}
+
+.esportes {
+    text-align: center;
+    border: 3px solid #4169e1;
+    border-radius: 30px;
+    margin-top: 30px;
+    font-family: "Akshar";
+    font-size: 16px;
+
+}
